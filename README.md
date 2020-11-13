@@ -3,7 +3,7 @@
 ![MDN Pic](mdn_pic.png)
 This lab is to help you with reading errors. Remember, debugging is a part of the job as a software engineer; therefore, knowing how to read errors will help speed up the debugging process. 
 
-According to { [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error) }, `Error` objects are thrown when runtime errors occur. The Error object can also be used as a base object for user-defined exceptions.
+According to { [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Error) }, `Error` objects are thrown when runtime errors occur. The `Error` object can also be used as a base object for user-defined exceptions.
 
 Here are the list of errors you may encounter using JavaScript:
 
